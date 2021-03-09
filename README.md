@@ -1,24 +1,31 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Project Name: A blog app with Rails
 
-Things you may want to cover:
+## Prerequisites
+- Ruby
+- SQLite3
+- Node.js
+- Yarn
 
-* Ruby version
+## Getting Started
+Follow the instructions on [getting started with rails](https://guides.rubyonrails.org/getting_started.html)
 
-* System dependencies
+## Authors
 
-* Configuration
+👤 **Miguel Ricardo Gomez**
+- GitHub: [@MiguelArgentina](https://github.com/MiguelArgentina)
+- Twitter: [@Qete_arg](https://twitter.com/Qete_arg)
+- LinkedIn: [Miguel Ricardo Gomez](https://www.linkedin.com/in/miguelricardogomez/)
 
-* Database creation
+👤 **Ubong George**
+- GitHub: [@george-swift](https://github.com/george-swift)
+- Twitter: [@\_\_pragmaticdev](https://twitter.com/__pragmaticdev)
 
-* Database initialization
+## Show your support
 
-* How to run the test suite
+Give a :star:️ if you like this project!
 
-* Services (job queues, cache servers, search engines, etc.)
+## License
 
-* Deployment instructions
-
-* ...
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
