@@ -10,10 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+
 ActiveRecord::Schema.define(version: 2021_03_08_220311) do
+
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
 
   create_table "articles", force: :cascade do |t|
     t.string "title"
@@ -32,4 +35,5 @@ ActiveRecord::Schema.define(version: 2021_03_08_220311) do
   end
 
   add_foreign_key "comments", "articles"
+
 end
